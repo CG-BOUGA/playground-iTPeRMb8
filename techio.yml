@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple F# template
 
 plan:
-  - title: Python Snippet
+  - title: F# Snippet
     statement: statement.md
