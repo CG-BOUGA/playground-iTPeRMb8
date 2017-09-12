@@ -1,5 +1,4 @@
-title: Simple F# template
-
+title: Simple F# Template
 plan:
-  - title: F# Snippet
-    statement: statement.md
+- title: F# Snippet
+  statement: statement.md
